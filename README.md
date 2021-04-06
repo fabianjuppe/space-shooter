@@ -2,7 +2,8 @@
 
 # Notice
 
-- The unity folder contains a playable version of the game.<br>
+- The unity folder contains the unity project files.
+- The standalone folder contains a playable version of the game.
 - The vektoria folder only includes the code i wrote myself, since the engine is for academic use only.
 
 
@@ -16,7 +17,7 @@ The game was created in two versions.
 
 <b>Programming Language:</b> C++ <b>Software:</b> Vektoria <b>Date:</b> 2020 <b>Contributors:</b> Fabian Juppe
 
-<h3 align="left">Description</h3>
+<h3>Description</h3>
 
 The first version of the game was created with the <b>Vektoria Engine</b> by Prof. Dr. Tobias Breiner in C++.
 
