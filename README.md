@@ -2,8 +2,8 @@
 
 # Notice
 
-- The unity folder contains the unity project files.
 - The standalone folder contains a playable version of the game.
+- The unity folder contains the unity project files.
 - The vektoria folder only includes the code i wrote myself, since the engine is for academic use only.
 
 
